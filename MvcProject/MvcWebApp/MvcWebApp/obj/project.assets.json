@@ -1031,11 +1031,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProject\\MvcWebApp\\MvcWebApp\\MvcWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\MvcWebApp\\MvcWebApp.csproj",
       "projectName": "MvcWebApp",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProject\\MvcWebApp\\MvcWebApp\\MvcWebApp.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\MvcWebApp\\MvcWebApp.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProject\\MvcWebApp\\MvcWebApp\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\MvcWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1056,8 +1056,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj"
+            "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj": {
+              "projectPath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj"
             }
           }
         }

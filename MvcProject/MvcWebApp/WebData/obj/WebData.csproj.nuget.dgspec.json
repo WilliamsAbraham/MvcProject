@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj": {
+    "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj",
         "projectName": "WebData",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\WebData\\WebData.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProject\\MvcWebApp\\WebData\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\WebData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OqVHWguXSaJwmlF1hlKYcNqf7f2H4g0q+hbuxEP1hApI3/A0BTDpUcr1RNoT9ddIQCYTqyMsJ6CpfzDaGaMkVQ==",
+  "dgSpecHash": "2BXXcqFoM3ipLQFq5bh0GtDFFOF+QZ7orQSgrmkrne84YZGqa5JG2qE7C80Xv2kN5eDeRaO212uv8tvi90ovyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProject\\MvcWebApp\\MvcWebApp\\MvcWebApp.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\MvcWebApp\\MvcWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
