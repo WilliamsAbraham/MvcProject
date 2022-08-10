@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\bin\Debug\net6.0\WebData.deps.json
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\bin\Debug\net6.0\WebData.dll
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\bin\Debug\net6.0\WebData.pdb
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\obj\Debug\net6.0\WebData.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\obj\Debug\net6.0\WebData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\obj\Debug\net6.0\WebData.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\obj\Debug\net6.0\WebData.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\obj\Debug\net6.0\WebData.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\obj\Debug\net6.0\WebData.dll
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\obj\Debug\net6.0\refint\WebData.dll
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\obj\Debug\net6.0\WebData.pdb
+C:\Users\DELL\Desktop\CodeProject\MvcProject\MvcWebApp\WebData\obj\Debug\net6.0\ref\WebData.dll
