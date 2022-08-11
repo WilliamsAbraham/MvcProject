@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\DELL\Desktop\CodeProject\MvcProjects\MvcProject\MvcWebApp\MvcWebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/DELL/Desktop/CodeProject/MvcProjects/MvcProject/MvcWebApp/MvcWebApp/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/DELL/Desktop/CodeProject/MvcProjects/MvcProject/MvcWebApp/MvcWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -27,8 +31,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/Desktop/CodeProject/MvcProjects/MvcProject/MvcWebApp/MvcWebApp/Views/Shared/_LoginLinks.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpbkxpbmtzLmNzaHRtbA==
+[C:/Users/DELL/Desktop/CodeProject/MvcProjects/MvcProject/MvcWebApp/MvcWebApp/Views/Shared/_AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL/Desktop/CodeProject/MvcProjects/MvcProject/MvcWebApp/MvcWebApp/Views/Shared/_DashBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoQm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DELL/Desktop/CodeProject/MvcProjects/MvcProject/MvcWebApp/MvcWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
