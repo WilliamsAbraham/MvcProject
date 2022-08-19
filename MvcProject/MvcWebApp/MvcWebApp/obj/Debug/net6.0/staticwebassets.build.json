@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wgit3FV8n9Qe+S/bjYRS0CR4q+UHC2g4HVyi84FH4Uc=",
+  "Hash": "O4aslGnUjTBRlYK/mug/4b4U5nPs548yBKTVLKYFPzw=",
   "Source": "MvcWebApp",
   "BasePath": "_content/MvcWebApp",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\MvcWebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MvcWebApp.styles.css",
-      "SourceId": "MvcWebApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\MvcWebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/MvcWebApp",
-      "RelativePath": "MvcWebApp.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\MvcWebApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MvcWebApp.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\MvcWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MvcWebApp.bundle.scp.css",
-      "SourceId": "MvcWebApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\MvcWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/MvcWebApp",
-      "RelativePath": "MvcWebApp.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\MvcWebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MvcWebApp.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\DELL\\Desktop\\CodeProject\\MvcProjects\\MvcProject\\MvcWebApp\\MvcWebApp\\wwwroot\\css\\site.css",
       "SourceId": "MvcWebApp",
