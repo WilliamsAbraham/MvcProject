@@ -21,9 +21,8 @@ namespace MvcWebApp.Controllers
 
         public IActionResult Index()
         {
-            if (_signInManager.IsSignedIn(User))
-             
-            return RedirectToAction("Login", "Account");
+            
+            
             return View();
         }
 

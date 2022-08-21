@@ -1,7 +1,11 @@
-﻿@{
+﻿@using Microsoft.AspNetCore.Identity
+@using WebData.Data.Entities
+@{
     ViewData["Title"] = "Home Page";
     Layout = "~/Views/Shared/_AdminLogin.cshtml";
     @model LoginViewModel
+    @inject SignInManager<User> SignInManager
+    @inject UserManager<User> UserManager
 }
 
 <div class="text-center">
