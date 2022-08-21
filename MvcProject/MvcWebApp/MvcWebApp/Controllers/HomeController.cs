@@ -22,9 +22,9 @@ namespace MvcWebApp.Controllers
         public IActionResult Index()
         {
             if (!_signInManager.IsSignedIn(User))
-                return View();
+             
             return RedirectToAction("Login", "Account");
-           
+            return View();
         }
 
         public IActionResult Privacy()
