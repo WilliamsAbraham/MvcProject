@@ -6,7 +6,9 @@
     @model LoginViewModel
     @inject SignInManager<User> SignInManager
     @inject UserManager<User> UserManager
+    ViewBag.Title = "Login";
 }
+
 
 <div class="text-center">
  <h1 class="display-4">Welcome</h1>
@@ -20,7 +22,7 @@
     <div class="card-body login-card-body">
       <p class="login-box-msg">Sign in to start your session</p>
 
-      <form asp-action="Login" method="post" asp-controller ="Account">
+      <form asp-action="Login" method="post" asp-controller ="Account" asp-route-data ="@Model.ReturnUrl">
           <div asp-validation-summary="ModelOnly"></div>
         <div class="input-group mb-3">
           <input asp-for="Email" placeholder="Email" class ="form-control"/>

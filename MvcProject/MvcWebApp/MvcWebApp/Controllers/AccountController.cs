@@ -29,13 +29,15 @@ namespace MvcWebApp.Controllers
             var result = await _signInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, false);
            if (result.Succeeded)
             {
-                if (string.IsNullOrEmpty(model.ReturnUrl))
+                if (!string.IsNullOrEmpty(model.ReturnUrl) && Url.IsLocalUrl(model.ReturnUrl))
+
                 {
-                    return RedirectToAction("Index", "Home");
+                    return Redirect(model.ReturnUrl);
                 }
                 else
                 {
-                    return Redirect(model.ReturnUrl);
+                    return RedirectToAction("Index", "Home");
+                   
                 }
                 
             }
