@@ -4,9 +4,11 @@ using Microsoft.AspNetCore.Identity;
 using MvcWebApp.Models;
 using System.Diagnostics;
 using WebData.Data.Entities;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MvcWebApp.Controllers
 {
+    [Authorize]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -18,12 +20,12 @@ namespace MvcWebApp.Controllers
             _logger = logger;
             _signInManager = signInManager;
         }
-
+        [AllowAnonymous]
         public IActionResult Index()
         {
-            
-            
-            return View();
+
+            //if (_signInManager.IsSignedIn(User))
+             return View();
         }
 
         public IActionResult Privacy()

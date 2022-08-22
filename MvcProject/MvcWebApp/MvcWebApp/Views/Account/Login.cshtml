@@ -7,6 +7,7 @@
     @inject SignInManager<User> SignInManager
     @inject UserManager<User> UserManager
     ViewBag.Title = "Login";
+    ViewData["Title"] = "Login";
 }
 
 
@@ -22,7 +23,7 @@
     <div class="card-body login-card-body">
       <p class="login-box-msg">Sign in to start your session</p>
 
-      <form asp-action="Login" method="post" asp-controller ="Account" asp-route-data ="@Model.ReturnUrl">
+      <form asp-action="Login" method="post" asp-controller ="Account" asp-route-returnurl ="@ViewData["ReturnUrl"]">
           <div asp-validation-summary="ModelOnly"></div>
         <div class="input-group mb-3">
           <input asp-for="Email" placeholder="Email" class ="form-control"/>
